@@ -1,0 +1,7 @@
+# Editors
+.vscode
+
+# Terraform
+.terraform
+*plan.terraform*
+*.tfstate*
